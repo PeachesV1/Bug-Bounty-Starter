@@ -4,7 +4,7 @@ This was acquired from Ben Sadeghipoour's github, good recourses, I just want to
 
 Resources-for-Beginner-Bug-Bounty-Hunters
 Basics 🤓
-Table of Contents
+ Table of Contents
 Stanford CS 253 Web Security
 HTTP basics
 Networking basics
