@@ -4,41 +4,41 @@ This was acquired from Ben Sadeghipoour's github, good recourses, I just want to
 
 Resources-for-Beginner-Bug-Bounty-Hunters
 Basics 🤓
- Table of Contents
-Stanford CS 253 Web Security
-HTTP basics
-Networking basics
-Programming Basics
-Automation
-Linux basics
-Web Server Basics
-Computing Fundamentals
-Hacking Basics
-Stanford CS 253 Web Security
-Stanford CS 253 Web Security - by @feross
+  Table of Contents
+  Stanford CS 253 Web Security
+  HTTP basics
+  Networking basics
+  Programming Basics
+  Automation
+  Linux basics
+  Web Server Basics
+  Computing Fundamentals
+  Hacking Basics
+  Stanford CS 253 Web Security
+  Stanford CS 253 Web Security - by @feross
 "This course is a comprehensive overview of web security. The goal is to build an understanding of the most common web attacks and their countermeasures. Given the pervasive insecurity of the modern web landscape, there is a pressing need for programmers and system designers to improve their understanding of web security issues."
 HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.
 
 All in one resource
-HTTP basics
-Cookie security
-HTML parsing
-MIME sniffing
-Encoding sniffing
-Same-Origin Policy
-CSRF (Cross-Site Request Forgery)
-Request form
-Response form
-Response codes
-URL Encoding
-Networking basics
+ HTTP basics
+ Cookie security
+ HTML parsing
+ MIME sniffing
+ Encoding sniffing
+ Same-Origin Policy
+ CSRF (Cross-Site Request Forgery)
+ Request form
+ Response form
+ Response codes
+ URL Encoding
+ Networking basics
 Recon is a common terminology used in bug bounties. It’s great if you are already using tools to scan a range of IPs for open ports or find subdomain, however, you should first understand why these things matter and how they work.
 
 Terminology
-What is an IP?
-What are ports?
-What is DNS?
+ What is an IP?
+ What are ports?
+ What is DNS?
 Intermediate Security Testing with Kali Linux 2
 Network Fundamentals, A 19 part Video Series about Networking well explained for Beginners
 Programming Basics
